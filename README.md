@@ -8,5 +8,4 @@ I would have paid attention to these details:
 4. text label animation
 5. text label a child of animated sprite. why?
 6. how folders are sorted for this project
-
-
+7. how audio files could be played
